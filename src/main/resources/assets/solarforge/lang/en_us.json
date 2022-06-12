@@ -209,13 +209,15 @@
   "solar_fragment.lexicon": "Solar Lexicon",
   "lexicon.lore": "The Solar Lexicon is a \"guide\" to the Solar Craft mod. To unlock new information about items, shift-right-click with the lexicon in your hand, and put decrypted fragments inside. If, for some reason, you have lost the book, you can use the command \"/solarcraft fragments\" to retrieve your lost fragments. To move inside, use WASD or the arrow keys.",
   "solar_fragment.wand": "Solar Wand",
-  // last checked area
-  "wand.lore": "This the main tool in your adventures. Can be used in various situations.",
+  
+  "wand.lore": "The Solar Wand is an important tool used in various situations. Its primary use is to trigger crafting.",
+  
   "solar_fragment.solar_dust": "Solar Dust",
-  "solar_dust.lore": "A powder that is produced by processing solarium in a solar forge. It has many uses.",
+  "solar_dust.lore": "Solar Dust is a scorching powder produced by processing Solarium in a Solar Forge. It has many uses.",
   "solar_fragment.energy_dust": "Energy Dust",
-  "energy_dust.lore": "A magic powder that can be used as a catalyst in many crafts. Can be obtained through Sun-flowers in deserts.",
+  "energy_dust.lore": "Energy Dust is a magical powder obtained by Sun-Flowers, located in arid biomes. It is used as a catalyst in many recipes.",
   "solar_fragment.solar_forge": "Solar Forge",
+  // last checked area
   "solar_forge.lore": "As your knowledge increases and body matures, you may have noticed that magic energies started to appear inside you. This machine produces raw solar energy that can be used to awaken the powers lying deep inside you.",
   "solar_fragment.solar_helmet": "Solar Helmet",
   "solar_helmet.lore": "A good set of armor, better than netherite.",
